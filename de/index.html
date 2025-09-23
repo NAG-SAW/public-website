@@ -315,8 +315,12 @@ function addActive(x) {
   }
 	
 //]]></script><script type="text/javascript" defer="defer">//<![CDATA[
+	/* Mailaddress obfuscation */
 	Array.from(document.getElementsByTagName("a")).filter(x => x.getAttribute("href").startsWith("mailto:")).forEach(x => x.setAttribute("href", "mailto:"+atob(x.getAttribute("href").split("mailto:")[1])));
 	Array.from(document.getElementsByTagName("a")).filter(x => x.getAttribute("href").startsWith("mailto:")).forEach(x => x.innerHTML = x.innerHTML.replace(btoa(x.getAttribute("href").split("mailto:")[1]), x.getAttribute("href").split("mailto:")[1]));
+	/* Telephonenumber obfuscation */
+	Array.from(document.getElementsByTagName("a")).filter(x => x.getAttribute("href").startsWith("tel:")).forEach(x => x.setAttribute("href", "tel:"+atob(x.getAttribute("href").split("tel:")[1])));
+	Array.from(document.getElementsByTagName("a")).filter(x => x.getAttribute("href").startsWith("tel:")).forEach(x => x.innerHTML = x.innerHTML.replace(btoa(x.getAttribute("href").split("tel:")[1]), x.getAttribute("href").split("tel:")[1]));
 //]]></script></div></div></main><footer class="footer"><div class="wrapper"><div class="footer__social"><a href="https://www.instagram.com/slc_aachen" aria-label="[MISSING TRANSLATION]"><svg><use xlink:href="./../assets/svg/svg-map.svg#instagram"/></svg><p>@SLC</p></a><a href="https://www.instagram.com/saw.social" aria-label="[MISSING TRANSLATION]"><svg><use xlink:href="./../assets/svg/svg-map.svg#instagram"/></svg><p>@SAW</p></a><a href="https://www.instagram.com/triangel_saw" aria-label="[MISSING TRANSLATION]"><svg><use xlink:href="./../assets/svg/svg-map.svg#instagram"/></svg><p>@TRIANGEL</p></a></div></div></footer><script defer="defer" src="./../assets/js/scripts.min.js?v=700105c316933a8202041b6415abb233"></script><script>window.publiiThemeMenuConfig={mobileMenuMode:'sidebar',animationSpeed:300,submenuWidth: 'auto',doubleClickTime:500,mobileMenuExpandableSubmenus:true,relatedContainerForOverlayMenuSelector:'.top'};</script><script>var images = document.querySelectorAll('img[loading]');
         for (var i = 0; i < images.length; i++) {
             if (images[i].complete) {
