@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://www.saw.rwth-aachen.de/sitemap.xml
