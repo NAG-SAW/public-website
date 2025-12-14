@@ -23,11 +23,11 @@
         "mediaLazyLoad": 1,
         "versionSuffix": 1,
         "sitemapEnabled": 1,
-        "sitemapAddTags": 1,
-        "sitemapAddAuthors": 1,
+        "sitemapAddTags": false,
+        "sitemapAddAuthors": false,
         "sitemapAddHomepage": 1,
         "sitemapAddExternalImages": true,
-        "sitemapExcludedFiles": "",
+        "sitemapExcludedFiles": "de/index.html, en/index.html",
         "usePageTitleInsteadItemName": false,
         "openGraphEnabled": 1,
         "openGraphImage": "",
@@ -241,5 +241,5 @@
         }
     },
     "theme": "SaW Theme",
-    "syncDate": 1760640128580
+    "syncDate": 1765752774969
 }
