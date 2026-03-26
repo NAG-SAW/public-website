@@ -2,17 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "62a66771e8b3dd8d05babbd8143e3be3"
-    },
-    {
-        "path": "accordion",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/accordion/index.html",
-        "type": "file",
-        "md5": "c59c40f51052e4037bfdb9d7496d5d27"
+        "md5": "dc7711bd84cdc80b876f2f5649ded72d"
     },
     {
         "path": "assets",
@@ -27,17 +17,17 @@
     {
         "path": "/assets/css/editor.css",
         "type": "file",
-        "md5": "4202808df745f2ac7ab250606fa0d272"
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
     },
     {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "6cff79694ab0d15e4715d0fb073de94c"
+        "md5": "756b24b82808cb1b1fd3ed818ddb2e93"
     },
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "0de8d203b4a51d286be90ad9ac8a8ada"
+        "md5": "2c28c82c93b17efaf243b95e1d0f3a7e"
     },
     {
         "path": "assets/dynamic",
@@ -52,22 +42,22 @@
     {
         "path": "/assets/js/scripts.js",
         "type": "file",
-        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+        "md5": "07009e3ff6f6590eb6df19acb018708c"
     },
     {
         "path": "/assets/js/scripts.min.js",
         "type": "file",
-        "md5": "700105c316933a8202041b6415abb233"
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
     },
     {
         "path": "/assets/js/svg-fix.js",
         "type": "file",
-        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
     },
     {
         "path": "/assets/js/svg-map.js",
         "type": "file",
-        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
     },
     {
         "path": "assets/svg",
@@ -77,7 +67,7 @@
     {
         "path": "/assets/svg/svg-map.svg",
         "type": "file",
-        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+        "md5": "7c902c7f320afaacaa0aa48f7f86669a"
     },
     {
         "path": "authors",
@@ -92,12 +82,7 @@
     {
         "path": "/authors/saw/index.html",
         "type": "file",
-        "md5": "395a8b0fcc5d7f6310f81c68ffdaeb46"
-    },
-    {
-        "path": "Bad_01.09.2015.pdf",
-        "type": "file",
-        "md5": "aaf5ef63e88507ce987b6478e9d70289"
+        "md5": "a64d646c0e986cd616a96926503a50d1"
     },
     {
         "path": "de",
@@ -112,7 +97,7 @@
     {
         "path": "/de/ags-de/index.html",
         "type": "file",
-        "md5": "3797ac3af0e09a0fa7df7a3059244655"
+        "md5": "32807267c1e3627094df281c411df528"
     },
     {
         "path": "de/andere-formulare-und-dokumente-de",
@@ -122,7 +107,7 @@
     {
         "path": "/de/andere-formulare-und-dokumente-de/index.html",
         "type": "file",
-        "md5": "e643cc76ef7eefd31af5ac39ea4f3a84"
+        "md5": "d64e3e68b07f1971c5a8cfc3141e3bf1"
     },
     {
         "path": "de/apartment-de",
@@ -132,7 +117,7 @@
     {
         "path": "/de/apartment-de/index.html",
         "type": "file",
-        "md5": "ba5a1afe8a9b1d572b9dde64aa4d9115"
+        "md5": "6c442acad8e204a72b3bbf1763238a9d"
     },
     {
         "path": "de/belegung-de",
@@ -142,17 +127,7 @@
     {
         "path": "/de/belegung-de/index.html",
         "type": "file",
-        "md5": "b2a08a1bc5652bca90aebed08f484e52"
-    },
-    {
-        "path": "de/blog-de",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/de/blog-de/index.html",
-        "type": "file",
-        "md5": "f185a8c5be8cb4029cf3e2255d926b5a"
+        "md5": "6f1441914e0b9620f69b874817d2e0d3"
     },
     {
         "path": "de/datenschutzerklaerung-de",
@@ -162,7 +137,7 @@
     {
         "path": "/de/datenschutzerklaerung-de/index.html",
         "type": "file",
-        "md5": "9278a9a37adb743a62c33bc1c91fb972"
+        "md5": "9bd63fdf72844ffa7d1e8cddd04132e3"
     },
     {
         "path": "de/faq-de",
@@ -172,7 +147,7 @@
     {
         "path": "/de/faq-de/index.html",
         "type": "file",
-        "md5": "987a4d627aa513d648a5fae49f9b7e5d"
+        "md5": "8164ea1cdd1218298d66fc09ef6f86a0"
     },
     {
         "path": "de/impressum-de",
@@ -182,12 +157,12 @@
     {
         "path": "/de/impressum-de/index.html",
         "type": "file",
-        "md5": "890f858d9d5eea04fa5420e3994a176e"
+        "md5": "9be1f1dde56a16bdab03a9f74ce40a60"
     },
     {
         "path": "/de/index.html",
         "type": "file",
-        "md5": "c1ac24740b507d3e08f915f2ee4f52a1"
+        "md5": "890c89b9897faa3c9fb6e0330fbb606c"
     },
     {
         "path": "de/kontaktformular-de",
@@ -197,17 +172,7 @@
     {
         "path": "/de/kontaktformular-de/index.html",
         "type": "file",
-        "md5": "75e52a846c15c3572da595c89a2d4fd0"
-    },
-    {
-        "path": "de/mehr-bars-de",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/de/mehr-bars-de/index.html",
-        "type": "file",
-        "md5": "beb3b919032f693f60c893b1a2c3be39"
+        "md5": "3123664f680de5f4048c44cebdb9e6ed"
     },
     {
         "path": "de/triangel-de",
@@ -217,17 +182,7 @@
     {
         "path": "/de/triangel-de/index.html",
         "type": "file",
-        "md5": "ebe7b77d93fa4af28d08fc15383f120f"
-    },
-    {
-        "path": "de/untervermietung-de",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/de/untervermietung-de/index.html",
-        "type": "file",
-        "md5": "f73979e43994c52d99537140fc236288"
+        "md5": "22a15811f373205aa22dd6efd0a94bed"
     },
     {
         "path": "de/verein-de",
@@ -237,7 +192,7 @@
     {
         "path": "/de/verein-de/index.html",
         "type": "file",
-        "md5": "42f79dfe708c8a7104aab28e97ea8e80"
+        "md5": "d8c811d5fe28f96cb89c917d632949e5"
     },
     {
         "path": "de/wohnheim-de",
@@ -247,22 +202,7 @@
     {
         "path": "/de/wohnheim-de/index.html",
         "type": "file",
-        "md5": "08eab23289d1df34a2463c2757ad8a95"
-    },
-    {
-        "path": "einfach_oder_ordentlich-ausfüllbar.pdf",
-        "type": "file",
-        "md5": "f44fab43dbd1275b86ddc3a7e3420116"
-    },
-    {
-        "path": "einfach_oder_ordentlich.pdf",
-        "type": "file",
-        "md5": "9d9f1920752223c1625caf0185890006"
-    },
-    {
-        "path": "einzugsflyer_web.pdf",
-        "type": "file",
-        "md5": "5913348fb41f4d1f0d31392a27452460"
+        "md5": "5c4fcc9f1f8b75bb1ec7fa99a2d6eca0"
     },
     {
         "path": "en",
@@ -277,7 +217,7 @@
     {
         "path": "/en/ags-en/index.html",
         "type": "file",
-        "md5": "77f8abbd608cd0fc6cbe06a3d31c7325"
+        "md5": "04495606c4044b2c1f18390409c26889"
     },
     {
         "path": "en/andere-formulare-und-dokumente-en",
@@ -287,7 +227,7 @@
     {
         "path": "/en/andere-formulare-und-dokumente-en/index.html",
         "type": "file",
-        "md5": "6658d99ef34043d8c7200bd2c32967f4"
+        "md5": "cefd5d7eb0eb2bffe0ed35c14d9205d7"
     },
     {
         "path": "en/apartment-en",
@@ -297,7 +237,7 @@
     {
         "path": "/en/apartment-en/index.html",
         "type": "file",
-        "md5": "d3fad52b081f2bf0b65d72f0b3c6285f"
+        "md5": "3809211bd0a9eea2b3a6d40fee9f7274"
     },
     {
         "path": "en/belegung-en",
@@ -307,17 +247,7 @@
     {
         "path": "/en/belegung-en/index.html",
         "type": "file",
-        "md5": "b0f88e18f0badb76b2cc6e65ee233d2b"
-    },
-    {
-        "path": "en/blog-en",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/en/blog-en/index.html",
-        "type": "file",
-        "md5": "e418755edf7bef6292a1de8b931a85df"
+        "md5": "a34c163dc712e3e524d5eabe4f4ead76"
     },
     {
         "path": "en/datenschutzerklaerung-en",
@@ -327,7 +257,7 @@
     {
         "path": "/en/datenschutzerklaerung-en/index.html",
         "type": "file",
-        "md5": "f48134cff3dcb29151ccddd85a58ba75"
+        "md5": "1998cc8e33b5e5f70f8f75dd220bcd07"
     },
     {
         "path": "en/faq-en",
@@ -337,7 +267,7 @@
     {
         "path": "/en/faq-en/index.html",
         "type": "file",
-        "md5": "e6ecd689065d26e1274fc0edce417abe"
+        "md5": "110d42e81f88b7f77e818f675d5ec47a"
     },
     {
         "path": "en/home-en",
@@ -347,7 +277,7 @@
     {
         "path": "/en/home-en/index.html",
         "type": "file",
-        "md5": "1a82dcc63336abb638d22b0de3c82e89"
+        "md5": "0ad41c8cd7f53b78a0362225d389e8da"
     },
     {
         "path": "en/impressum-en",
@@ -357,12 +287,12 @@
     {
         "path": "/en/impressum-en/index.html",
         "type": "file",
-        "md5": "00283d4062161345be38838fac8b5c6d"
+        "md5": "4901c7e179e0d6ee4beebfe819b2ef29"
     },
     {
         "path": "/en/index.html",
         "type": "file",
-        "md5": "0ca368b01b4d194df86f30fd2c9219db"
+        "md5": "a1e4e2cd9b4aa81e43620dd8a3a84700"
     },
     {
         "path": "en/kontaktformular-en",
@@ -372,17 +302,7 @@
     {
         "path": "/en/kontaktformular-en/index.html",
         "type": "file",
-        "md5": "ae6ab9b07c5bbbd9ac7be8ba12ddc6c2"
-    },
-    {
-        "path": "en/mehr-bars-en",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/en/mehr-bars-en/index.html",
-        "type": "file",
-        "md5": "2b003f43199ed613fdc30f139343116d"
+        "md5": "4b4cfb39da61940d37c2bde01aee0f5d"
     },
     {
         "path": "en/triangel-en",
@@ -392,17 +312,7 @@
     {
         "path": "/en/triangel-en/index.html",
         "type": "file",
-        "md5": "c9312b9a3b4405d3d492862653cf37ad"
-    },
-    {
-        "path": "en/untervermietung-en",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/en/untervermietung-en/index.html",
-        "type": "file",
-        "md5": "56b90cbe8ea4948346902a3fb562a6fe"
+        "md5": "fe822ae72e7cabe120a068086948782d"
     },
     {
         "path": "en/verein-en",
@@ -412,7 +322,7 @@
     {
         "path": "/en/verein-en/index.html",
         "type": "file",
-        "md5": "50789e8002714e07069f31aa67389339"
+        "md5": "c364c88b85f1264b2565710783d540da"
     },
     {
         "path": "en/wohnheim-en",
@@ -422,27 +332,577 @@
     {
         "path": "/en/wohnheim-en/index.html",
         "type": "file",
-        "md5": "45eb1661df573fc8f0ad47635d645d0a"
+        "md5": "cf9c50a03301093e56be1f6d8236920f"
     },
     {
-        "path": "Grundriss_01.09.2015.pdf",
+        "path": "feed.json",
         "type": "file",
-        "md5": "3171254f5000766616b42fa893df5595"
+        "md5": "a8fb959fc95b0fcf8354efaa0592633c"
     },
     {
-        "path": "Grundriss_unmöbliert.pdf",
+        "path": "feed.xml",
         "type": "file",
-        "md5": "166bd6f07fadd54bb7bff4ef07412d76"
+        "md5": "5efbff8dc22c4456a091dec001204e17"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "39188221ff6fc8a0d1466a03b07c072b"
+        "md5": "a663d0e02e97722738018f59f024ef69"
     },
     {
         "path": "media",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/Bad_01.09.2015.pdf",
+        "type": "file",
+        "md5": "aaf5ef63e88507ce987b6478e9d70289"
+    },
+    {
+        "path": "/media/files/Carousel_IMG1-1024.JPG",
+        "type": "file",
+        "md5": "0c9c563a8eca51fccb76d1a2c0d362d9"
+    },
+    {
+        "path": "/media/files/Carousel_IMG1-1440.JPG",
+        "type": "file",
+        "md5": "dce4e877d3f5093637f321f23502a58f"
+    },
+    {
+        "path": "/media/files/Carousel_IMG1-1920.JPG",
+        "type": "file",
+        "md5": "70b9449c87e6cf1488f25ea1656246ef"
+    },
+    {
+        "path": "/media/files/Carousel_IMG1-2560.JPG",
+        "type": "file",
+        "md5": "53d0d91e3d323c0b7b7aec606f475b74"
+    },
+    {
+        "path": "/media/files/Carousel_IMG1-3840.JPG",
+        "type": "file",
+        "md5": "168dc5fd727f9773b47d2d278c0c5fd1"
+    },
+    {
+        "path": "/media/files/Carousel_IMG1-480.JPG",
+        "type": "file",
+        "md5": "c9e43d632ae209629a4b80045eb4b593"
+    },
+    {
+        "path": "/media/files/Carousel_IMG1-768.JPG",
+        "type": "file",
+        "md5": "b997e986ca2a684567d63acca9717eb8"
+    },
+    {
+        "path": "/media/files/Carousel_IMG1-8192.JPG",
+        "type": "file",
+        "md5": "b41d1e7722c83740d6313d0accbde20c"
+    },
+    {
+        "path": "/media/files/Carousel_IMG2-1024.JPG",
+        "type": "file",
+        "md5": "bf549f5379401323521d72be8530b445"
+    },
+    {
+        "path": "/media/files/Carousel_IMG2-1440.JPG",
+        "type": "file",
+        "md5": "eb8ace57d053bc1271d0d8747c96436c"
+    },
+    {
+        "path": "/media/files/Carousel_IMG2-1920.JPG",
+        "type": "file",
+        "md5": "0a9ff1c86123c49030bfedd7e6589fdc"
+    },
+    {
+        "path": "/media/files/Carousel_IMG2-2560.JPG",
+        "type": "file",
+        "md5": "be25ea60603a190246e89e69498c7631"
+    },
+    {
+        "path": "/media/files/Carousel_IMG2-3840.JPG",
+        "type": "file",
+        "md5": "1fbba1123b3035312f7567e1e0b52002"
+    },
+    {
+        "path": "/media/files/Carousel_IMG2-480.JPG",
+        "type": "file",
+        "md5": "aa24adbfe6d730efb74a56781def56c8"
+    },
+    {
+        "path": "/media/files/Carousel_IMG2-768.JPG",
+        "type": "file",
+        "md5": "afec7aed4243d5632f1b38f0d7f3f4c2"
+    },
+    {
+        "path": "/media/files/Carousel_IMG2-8192.JPG",
+        "type": "file",
+        "md5": "8cb6e370670c6f7f76a4f7ddab684bde"
+    },
+    {
+        "path": "/media/files/Carousel_IMG3-1024.JPG",
+        "type": "file",
+        "md5": "494c440d821aeb6db09f369647b95509"
+    },
+    {
+        "path": "/media/files/Carousel_IMG3-1440.JPG",
+        "type": "file",
+        "md5": "95e6f2e7a131ee29a0cd5631c368522e"
+    },
+    {
+        "path": "/media/files/Carousel_IMG3-1920.JPG",
+        "type": "file",
+        "md5": "feb520fee15757802b114b28cbb5f9fd"
+    },
+    {
+        "path": "/media/files/Carousel_IMG3-2560.JPG",
+        "type": "file",
+        "md5": "39880094f1f755264a522b4f026f1b4f"
+    },
+    {
+        "path": "/media/files/Carousel_IMG3-3840.JPG",
+        "type": "file",
+        "md5": "13ffe0fa57f9329e0a6796d489d796f0"
+    },
+    {
+        "path": "/media/files/Carousel_IMG3-480.JPG",
+        "type": "file",
+        "md5": "bb68a6817e187f87fbf750fe5530a415"
+    },
+    {
+        "path": "/media/files/Carousel_IMG3-768.JPG",
+        "type": "file",
+        "md5": "f1282667b2de690fe68da7cda6f118bb"
+    },
+    {
+        "path": "/media/files/Carousel_IMG3-8192.JPG",
+        "type": "file",
+        "md5": "464980007d007c9ab2468e2dbac50f3b"
+    },
+    {
+        "path": "/media/files/Carousel_IMG4-1024.JPG",
+        "type": "file",
+        "md5": "1480adae9562751543a3f4d925e9d838"
+    },
+    {
+        "path": "/media/files/Carousel_IMG4-1440.JPG",
+        "type": "file",
+        "md5": "1050bd11ce4edbd1b43eaf8e90147899"
+    },
+    {
+        "path": "/media/files/Carousel_IMG4-1920.JPG",
+        "type": "file",
+        "md5": "c872b4bcb951e3935841f2406164dba4"
+    },
+    {
+        "path": "/media/files/Carousel_IMG4-2560.JPG",
+        "type": "file",
+        "md5": "d41e82622f6c8a6077354b8e4404f01f"
+    },
+    {
+        "path": "/media/files/Carousel_IMG4-3840.JPG",
+        "type": "file",
+        "md5": "79cbc093020d2de3b08f6fa8a6695f0d"
+    },
+    {
+        "path": "/media/files/Carousel_IMG4-480.JPG",
+        "type": "file",
+        "md5": "68bfb7659c7ef1566c72aa3b95f1be00"
+    },
+    {
+        "path": "/media/files/Carousel_IMG4-768.JPG",
+        "type": "file",
+        "md5": "d93db78f735278015fce78adf561102d"
+    },
+    {
+        "path": "/media/files/Carousel_IMG4-8192.JPG",
+        "type": "file",
+        "md5": "61358d9e1cb3886c72e3460034f83032"
+    },
+    {
+        "path": "/media/files/Carousel_IMG5-1024.JPG",
+        "type": "file",
+        "md5": "e9f3d33739f852d4acbccb2f1e9bbd6d"
+    },
+    {
+        "path": "/media/files/Carousel_IMG5-1440.JPG",
+        "type": "file",
+        "md5": "78e609c7747efbd51fea85774ae76365"
+    },
+    {
+        "path": "/media/files/Carousel_IMG5-1920.JPG",
+        "type": "file",
+        "md5": "0007c02d789bd657daf1ebef0af9c94a"
+    },
+    {
+        "path": "/media/files/Carousel_IMG5-2560.JPG",
+        "type": "file",
+        "md5": "e306fdacbdfbe50a583e5c01cd481e08"
+    },
+    {
+        "path": "/media/files/Carousel_IMG5-3840.JPG",
+        "type": "file",
+        "md5": "9bd02a2b62ff21a432a45376d9f882ca"
+    },
+    {
+        "path": "/media/files/Carousel_IMG5-480.JPG",
+        "type": "file",
+        "md5": "3ca352f03c46e45f301f29628870cdc6"
+    },
+    {
+        "path": "/media/files/Carousel_IMG5-768.JPG",
+        "type": "file",
+        "md5": "aded87f1e586fa5bfc7c25f41684daf0"
+    },
+    {
+        "path": "/media/files/Carousel_IMG5-8192.JPG",
+        "type": "file",
+        "md5": "daf1e7f09dd1f48e0daa3dcbafe80095"
+    },
+    {
+        "path": "/media/files/DJI_20250619191745_0047_D.JPG",
+        "type": "file",
+        "md5": "c647084415ffe18e2e1fe19952d7057b"
+    },
+    {
+        "path": "/media/files/DJI_20250619192236_0050_D.JPG",
+        "type": "file",
+        "md5": "a2da9c10ce965cadc40b571652cbb746"
+    },
+    {
+        "path": "/media/files/DJI_20250619192257_0051_D.JPG",
+        "type": "file",
+        "md5": "c976c56ae178730f34752a773c13168e"
+    },
+    {
+        "path": "/media/files/DJI_20250619192429_0053_D.JPG",
+        "type": "file",
+        "md5": "b90a23abff7482cb1cd433bffc355fbc"
+    },
+    {
+        "path": "/media/files/DJI_20250619192811_0055_D.JPG",
+        "type": "file",
+        "md5": "d1e884fb34c59bc216403632ab9ddb2b"
+    },
+    {
+        "path": "/media/files/Grundriss_01.09.2015.pdf",
+        "type": "file",
+        "md5": "3171254f5000766616b42fa893df5595"
+    },
+    {
+        "path": "/media/files/Grundriss_unmöbliert.pdf",
+        "type": "file",
+        "md5": "166bd6f07fadd54bb7bff4ef07412d76"
+    },
+    {
+        "path": "/media/files/Grundriss_unmöbliert.png",
+        "type": "file",
+        "md5": "e80520013955e2207a69177ef3f75d5c"
+    },
+    {
+        "path": "/media/files/Nutzungsordnung_2011.11.04.pdf",
+        "type": "file",
+        "md5": "1b7ff1932990c253db49767adb9be9c5"
+    },
+    {
+        "path": "/media/files/SAW_eV_Kurzinfos.pdf",
+        "type": "file",
+        "md5": "1663b116a9d7ff48d6f8f46dbacfaf09"
+    },
+    {
+        "path": "/media/files/SAW_eV_Satzung_Stand_022012.pdf",
+        "type": "file",
+        "md5": "8ed515e79d7ea739591bf3d2d27bf678"
+    },
+    {
+        "path": "/media/files/SEPA-ausfüllbar.pdf",
+        "type": "file",
+        "md5": "72a57c55c487f0b0ab4cae4143fc4b91"
+    },
+    {
+        "path": "/media/files/SaW_Logo_Adaptive_cropped.svg",
+        "type": "file",
+        "md5": "2df3b0dd0624144e326a3d83de91ed98"
+    },
+    {
+        "path": "/media/files/Satzung_Aktuell.pdf",
+        "type": "file",
+        "md5": "df575fb0e18b25d0c6bd4bc704cb02cd"
+    },
+    {
+        "path": "/media/files/Vordruck-Kündigung-1.pdf",
+        "type": "file",
+        "md5": "29e5212fd178dff8be24ca3b7869a773"
+    },
+    {
+        "path": "/media/files/Waschmaschinen.png",
+        "type": "file",
+        "md5": "a793b24e9092a1e0a5b56ad0a7934730"
+    },
+    {
+        "path": "/media/files/Zimmer_IMG1.jpeg",
+        "type": "file",
+        "md5": "b58c177ff3d0cd73ba8d7a78ec4fac3b"
+    },
+    {
+        "path": "/media/files/Zimmer_IMG2.jpeg",
+        "type": "file",
+        "md5": "1378ec111abefac581ee18f12be2d812"
+    },
+    {
+        "path": "/media/files/Zimmer_IMG3.jpeg",
+        "type": "file",
+        "md5": "a52b4a378cc8210808eda2d8d341573e"
+    },
+    {
+        "path": "/media/files/Zimmer_IMG4.jpeg",
+        "type": "file",
+        "md5": "68a5412b7e889496ba8ff738db2e3e23"
+    },
+    {
+        "path": "/media/files/Zimmer_IMG5.jpeg",
+        "type": "file",
+        "md5": "85b1833ddcd686bf5371bc2f4de51bbb"
+    },
+    {
+        "path": "/media/files/Zimmer_IMG6.jpeg",
+        "type": "file",
+        "md5": "0cea14a649e544e01298314f56cb3884"
+    },
+    {
+        "path": "/media/files/Zimmer_IMG7.jpeg",
+        "type": "file",
+        "md5": "4dc7fdd39e200e7c9a23ff12e36b2ef5"
+    },
+    {
+        "path": "/media/files/Zimmer_IMG8.jpeg",
+        "type": "file",
+        "md5": "70713d1cefcbf9bec605cf33872a79b5"
+    },
+    {
+        "path": "/media/files/Zimmerabwicklung_möbliert_01.09.2015.pdf",
+        "type": "file",
+        "md5": "42a698041c938c8405bb6b62162c1919"
+    },
+    {
+        "path": "/media/files/Zimmerabwicklung_unmöbliert_01.09.2015.pdf",
+        "type": "file",
+        "md5": "31222375be1cbbdb37a94be6cb38cba2"
+    },
+    {
+        "path": "/media/files/einfach_oder_ordentlich-ausfüllbar.pdf",
+        "type": "file",
+        "md5": "f44fab43dbd1275b86ddc3a7e3420116"
+    },
+    {
+        "path": "/media/files/einfach_oder_ordentlich.pdf",
+        "type": "file",
+        "md5": "9d9f1920752223c1625caf0185890006"
+    },
+    {
+        "path": "/media/files/einzugsflyer_web.pdf",
+        "type": "file",
+        "md5": "5913348fb41f4d1f0d31392a27452460"
+    },
+    {
+        "path": "/media/files/sawev_beitritt_merkblatt.pdf",
+        "type": "file",
+        "md5": "e4f4ff47a95c200c7764d17ba6a28891"
+    },
+    {
+        "path": "/media/files/triangel_logo.jpg",
+        "type": "file",
+        "md5": "0b305170868881213ece83ca51e2c46d"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/36",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/36/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG1-thumbnail.jpeg",
+        "type": "file",
+        "md5": "7891b0ca1fa8fa4cd9b6b27f409d3c72"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG1.jpeg",
+        "type": "file",
+        "md5": "b58c177ff3d0cd73ba8d7a78ec4fac3b"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG2-thumbnail.jpeg",
+        "type": "file",
+        "md5": "5169ca0367a8e564a155aac1521a5ee4"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG2.jpeg",
+        "type": "file",
+        "md5": "1378ec111abefac581ee18f12be2d812"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG3-thumbnail.jpeg",
+        "type": "file",
+        "md5": "eae36f500b089d9baf1cead67af3915f"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG3.jpeg",
+        "type": "file",
+        "md5": "a52b4a378cc8210808eda2d8d341573e"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG4-thumbnail.jpeg",
+        "type": "file",
+        "md5": "a3f8e18334e81ec648ad6f97fcbb958c"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG4.jpeg",
+        "type": "file",
+        "md5": "68a5412b7e889496ba8ff738db2e3e23"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG5-thumbnail.jpeg",
+        "type": "file",
+        "md5": "dfe6ce8a271c7f5e13d8509a91582acf"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG5.jpeg",
+        "type": "file",
+        "md5": "85b1833ddcd686bf5371bc2f4de51bbb"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG6-thumbnail.jpeg",
+        "type": "file",
+        "md5": "8517446553d1d19b6f0706d4d522c57b"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG6.jpeg",
+        "type": "file",
+        "md5": "0cea14a649e544e01298314f56cb3884"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG7-thumbnail.jpeg",
+        "type": "file",
+        "md5": "c93425566f7f056eef649d1effbb9a4a"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG7.jpeg",
+        "type": "file",
+        "md5": "4dc7fdd39e200e7c9a23ff12e36b2ef5"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG8-thumbnail.jpeg",
+        "type": "file",
+        "md5": "732ff3d86634958990e47a80826d17b6"
+    },
+    {
+        "path": "/media/posts/36/gallery/Zimmer_IMG8.jpeg",
+        "type": "file",
+        "md5": "70713d1cefcbf9bec605cf33872a79b5"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/4/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG1-thumbnail.jpeg",
+        "type": "file",
+        "md5": "7891b0ca1fa8fa4cd9b6b27f409d3c72"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG1.jpeg",
+        "type": "file",
+        "md5": "b58c177ff3d0cd73ba8d7a78ec4fac3b"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG2-thumbnail.jpeg",
+        "type": "file",
+        "md5": "5169ca0367a8e564a155aac1521a5ee4"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG2.jpeg",
+        "type": "file",
+        "md5": "1378ec111abefac581ee18f12be2d812"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG3-thumbnail.jpeg",
+        "type": "file",
+        "md5": "eae36f500b089d9baf1cead67af3915f"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG3.jpeg",
+        "type": "file",
+        "md5": "a52b4a378cc8210808eda2d8d341573e"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG4-thumbnail.jpeg",
+        "type": "file",
+        "md5": "a3f8e18334e81ec648ad6f97fcbb958c"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG4.jpeg",
+        "type": "file",
+        "md5": "68a5412b7e889496ba8ff738db2e3e23"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG5-thumbnail.jpeg",
+        "type": "file",
+        "md5": "dfe6ce8a271c7f5e13d8509a91582acf"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG5.jpeg",
+        "type": "file",
+        "md5": "85b1833ddcd686bf5371bc2f4de51bbb"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG6-thumbnail.jpeg",
+        "type": "file",
+        "md5": "8517446553d1d19b6f0706d4d522c57b"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG6.jpeg",
+        "type": "file",
+        "md5": "0cea14a649e544e01298314f56cb3884"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG7-thumbnail.jpeg",
+        "type": "file",
+        "md5": "c93425566f7f056eef649d1effbb9a4a"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG7.jpeg",
+        "type": "file",
+        "md5": "4dc7fdd39e200e7c9a23ff12e36b2ef5"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG8-thumbnail.jpeg",
+        "type": "file",
+        "md5": "732ff3d86634958990e47a80826d17b6"
+    },
+    {
+        "path": "/media/posts/4/gallery/Zimmer_IMG8.jpeg",
+        "type": "file",
+        "md5": "70713d1cefcbf9bec605cf33872a79b5"
     },
     {
         "path": "media/website",
@@ -455,39 +915,19 @@
         "md5": "7fb84dcb48bec69d666c4579bcb61611"
     },
     {
-        "path": "Nutzungsordnung_2011.11.04.pdf",
-        "type": "file",
-        "md5": "1b7ff1932990c253db49767adb9be9c5"
-    },
-    {
         "path": "robots.txt",
         "type": "file",
-        "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca"
+        "md5": "c82febdfe4f492bd09f422ba31373f99"
     },
     {
-        "path": "Satzung_Aktuell.pdf",
+        "path": "sitemap.xml",
         "type": "file",
-        "md5": "df575fb0e18b25d0c6bd4bc704cb02cd"
+        "md5": "205cfb34e580bff301d88e30a60cf968"
     },
     {
-        "path": "sawev_beitritt_merkblatt.pdf",
+        "path": "sitemap.xsl",
         "type": "file",
-        "md5": "e4f4ff47a95c200c7764d17ba6a28891"
-    },
-    {
-        "path": "SAW_eV_Kurzinfos.pdf",
-        "type": "file",
-        "md5": "1663b116a9d7ff48d6f8f46dbacfaf09"
-    },
-    {
-        "path": "SAW_eV_Satzung_Stand_022012.pdf",
-        "type": "file",
-        "md5": "8ed515e79d7ea739591bf3d2d27bf678"
-    },
-    {
-        "path": "SEPA-ausfüllbar.pdf",
-        "type": "file",
-        "md5": "72a57c55c487f0b0ab4cae4143fc4b91"
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
     },
     {
         "path": "tags",
@@ -497,21 +937,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "14136a9c82c58a3ec064a2279f57d08e"
-    },
-    {
-        "path": "Vordruck-Kündigung-1.pdf",
-        "type": "file",
-        "md5": "29e5212fd178dff8be24ca3b7869a773"
-    },
-    {
-        "path": "Zimmerabwicklung_möbliert_01.09.2015.pdf",
-        "type": "file",
-        "md5": "42a698041c938c8405bb6b62162c1919"
-    },
-    {
-        "path": "Zimmerabwicklung_unmöbliert_01.09.2015.pdf",
-        "type": "file",
-        "md5": "31222375be1cbbdb37a94be6cb38cba2"
+        "md5": "816ce8b9adbe40331554d3d1e7139a8f"
     }
 ]

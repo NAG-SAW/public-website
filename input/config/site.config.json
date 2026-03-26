@@ -178,23 +178,23 @@
         }
     },
     "deployment": {
-        "protocol": "manual",
+        "protocol": "sftp+key",
         "relativeUrls": false,
-        "port": "",
+        "port": "22",
         "server": "10.10.12.101",
         "username": "root",
-        "password": "publii uuid-1746735296431-316757618",
+        "password": "",
         "askforpassword": false,
         "rejectUnauthorized": true,
-        "path": "/var/www/html/",
+        "path": "/srv/public-website/html/",
         "passphrase": "",
-        "sftpkey": "C:\\Users\\User\\.ssh\\id_ed25519",
+        "sftpkey": "/home/nag/.ssh/id_ed25519",
         "s3": {
             "customProvider": false,
             "provider": "aws",
             "endpoint": "",
-            "id": "publii-s3-id uuid-1746735296431-316757618",
-            "key": "publii-s3-key uuid-1746735296431-316757618",
+            "id": "",
+            "key": "",
             "bucket": "",
             "region": "",
             "customRegion": "",
@@ -207,7 +207,7 @@
             "url": "",
             "branch": "",
             "user": "",
-            "password": "publii-git-password uuid-1746735296431-316757618",
+            "password": "",
             "commitAuthor": "",
             "commitEmail": "",
             "commitMessage": "Publii: update content"
@@ -217,7 +217,7 @@
             "user": "",
             "repo": "",
             "branch": "",
-            "token": "publii-gh-token uuid-1746735296431-316757618",
+            "token": "",
             "parallelOperations": 1,
             "apiRateLimiting": 1
         },
@@ -226,11 +226,11 @@
             "rejectUnauthorized": true,
             "repo": "",
             "branch": "",
-            "token": "publii-gl-token uuid-1746735296431-316757618"
+            "token": ""
         },
         "netlify": {
-            "id": "publii-netlify-id uuid-1746735296431-316757618",
-            "token": "publii-netlify-token uuid-1746735296431-316757618"
+            "id": "",
+            "token": ""
         },
         "google": {
             "key": "",
@@ -239,9 +239,9 @@
         },
         "manual": {
             "output": "catalog",
-            "outputDirectory": "C:\\Users\\User\\Documents\\GitHub\\hallo5000.github.io\\html"
+            "outputDirectory": "/home/nag/Dokumente/Publii/sites/saw-studenten-am-weissenberg/html"
         }
     },
     "theme": "saw theme",
-    "syncDate": 1765752774969
+    "syncDate": 1774569413001
 }
