@@ -199,7 +199,9 @@
             "region": "",
             "customRegion": "",
             "prefix": "",
-            "acl": "public-read"
+            "acl": "public-read",
+            "htmlCacheControl": "no-cache, no-store",
+            "otherCacheControl": "public, max-age=2592000"
         },
         "git": {
             "url": "",
@@ -240,6 +242,6 @@
             "outputDirectory": "C:\\Users\\User\\Documents\\GitHub\\hallo5000.github.io\\html"
         }
     },
-    "theme": "SaW Theme",
+    "theme": "saw theme",
     "syncDate": 1765752774969
 }
