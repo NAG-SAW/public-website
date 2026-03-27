@@ -106,7 +106,7 @@
             "errorPage": "404.html",
             "searchPage": "search.html"
         },
-        "customHeadCode": "<!-- Icon Sidebar -->\n<script type=\"module\" src=\"https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js\"></script>\n<!--also used for the arrow on the \"Submit\" button in the contact form -->\n<!-- font-awesome\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css\" integrity=\"sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==\" crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\" />-->\n\n<!--Language-Selector Icons -->\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/css/flag-icons.min.css\" />\n",
+        "customHeadCode": "<!-- Icon Sidebar -->\n<script type=\"module\" src=\"https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js\"></script>\n<!--also used for the arrow on the \"Submit\" button in the contact form -->\n<!-- font-awesome\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css\" integrity=\"sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==\" crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\" />-->\n\n<!--Language-Selector Icons -->\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/css/flag-icons.min.css\" />\n<!-- openstreetmap leaflet styles -->\n<link rel=\"stylesheet\" href=\"https://unpkg.com/leaflet@1.9.4/dist/leaflet.css\"\n     integrity=\"sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=\"\n     crossorigin=\"\"/>\n",
         "customBodyCode": "<!-- Social Media Icons -->\n<!-- replaced by links in the sites footer\n<div class=\"socialbar\">\n  <ul>\n    <li class=\"facebook\" ><a target=\"_blank\" href=\"https://www.facebook.com/groups/181642091888519/\"><ion-icon name=\"logo-facebook\"></ion-icon></a></li> \n    <li class=\"instagram\" ><ion-icon name=\"logo-instagram\"></ion-icon></li>\n  </ul>\n</div>\n-->\n<!-- Language Selector -->\n<div class=\"lang-selector\">\n  <a href=\"\" onclick=\"langchange('de');\" data-language=\"german\"><span class=\"fi fi-de\"></span></a>\n  <a href=\"\" onclick=\"langchange('en');\" data-language=\"english\"><span class=\"fi fi-gb\"></span></a>\n</div>\n\n<script type=\"text/javascript\">\n//<![CDATA[\n\tfunction getPrevLang(){\n\t\tvar currentLang = localStorage.getItem(\"currentLang\") || \"de\";\n\t\tif(possibleLangs.includes(currentLang)){\n\t\t\tlocalStorage.setItem(\"currentLang\", currentLang);\n\t\t}else{\n\t\t\tcurrentLang = \"de\";\n\t\t\tlocalStorage.setItem(\"currentLang\", currentLang);\n\t\t}\n\t\t/* wird jetzt durch head.hbs geregelt \n\t\tdocument.getElementsByTagName(\"html\")[0].setAttribute(\"lang\", currentLang);*/\n\t\tlangchange(currentLang);\n\t}\n\t\n\tlet possibleLangs = ['en', 'de'];\n  function langchange(lang){\n  \tlet currentURL = window.location.href;\n\t\tvar newURL = \"\";\n\t\tif(currentURL.includes(\"/home-\") && lang == \"de\"){\n\t\t\tpossibleLangs.forEach(returnToHome);\n\t\t\tfunction returnToHome(x){\n\t\t\t\tif(currentURL.includes(\"/\"+x+\"/\")){\n\t\t\t\t\tnewURL = currentURL.replace(\"/\"+x+\"/home-\"+x+\"/\", \"/\");\n\t\t\t\t}\n\t\t\t}\n\t\t\tlocalStorage.setItem(\"currentLang\", lang);\n\t\t\tif(currentURL != newURL) window.location.assign(newURL);\n\t\t\treturn;\n\t\t}\n\t\tif(currentURL.includes(\"/de/\")){\n\t\t\tnewURL = currentURL.replace(\"/de/\",\"/\"+lang+\"/\");\n\t\t\tnewURL = newURL.replace(\"-de/\",\"-\"+lang+\"/\");\n\t\t}else if(currentURL.includes(\"/en/\")){\n\t\t\tnewURL = currentURL.replace(\"/en/\", \"/\"+lang+\"/\");\n\t\t\tnewURL = newURL.replace(\"-en/\", \"-\"+lang+\"/\");\n\t\t}else if(window.location.origin == currentURL || window.location.origin+\"/\" == currentURL){\n\t\t\tif(lang==\"de\") return;\n\t\t\tnewURL = window.location.origin+\"/\"+lang+\"/home-\"+lang+\"/index.html\";\n\t\t}\n\t\telse{\n\t\t\tif(lang == \"de\") return;\n\t\t\tif(currentURL.includes(\"index.html\")){\n\t\t\t\tnewURL = currentURL.replace(\"/index.html\", \"/\"+lang+\"/home-\"+lang+\"/index.html\");\n\t\t\t}else{\n\t\t\t\tnewURL = newURL+lang+\"/home-\"+lang+\"/index.html\";\n\t\t\t}\n\t\t}\n\t\tlocalStorage.setItem(\"currentLang\", lang);\n    if(currentURL != newURL) window.location.assign(newURL);\n  }\n  //]]>\n</script>\n\n<script type=\"text/javascript\" defer>\n//<![CDATA[\n\tvar currentLang = localStorage.getItem(\"currentLang\") || \"de\";\n\tif(possibleLangs.includes(currentLang)){\n\t\tlocalStorage.setItem(\"currentLang\", currentLang);\n\t}else{\n\t\tcurrentLang = \"de\";\n\t\tlocalStorage.setItem(\"currentLang\", currentLang);\n\t}\n\t/* wird jetzt durch head.hbs geregelt \n\tdocument.getElementsByTagName(\"html\")[0].setAttribute(\"lang\", currentLang);*/\n\tlangchange(currentLang);\n\t\n\t/* redirect to home if linked to just /DE/index.html or /EN/index.html */\n\t/* problems of not loading the social media icons correctly occured as soon as currentURL was named just \"URL\" because of conflicts \t\t\tin the ion-icon script */ \n\tvar currentURL = window.location.href;\n\tif(currentURL.includes(\"/en/index.html\")){\n\t\twindow.location.assign(currentURL.replace(\"/en/index.html\", \"/en/home-en/index.html\"));\n\t}else if(currentURL==document.location.origin+\"/en/\"){\n\t\twindow.location.assign(currentURL.replace(\"/en/\", \"/en/home-en/index.html\"));\n\t}else if(currentURL==document.location.origin+\"/de/\"){\n\t\twindow.location.assign(currentURL.replace(\"/de/\", \"/index.html\"));\n\t}else if(currentURL.includes(\"/de/index.html\")){\n\t\twindow.location.assign(currentURL.replace(\"/de/index.html\", \"/index.html\"));\n\t}\n//]]>\n</script>",
         "customCommentsCode": "",
         "customSearchInput": "",
@@ -183,7 +183,7 @@
         "port": "22",
         "server": "10.10.12.101",
         "username": "root",
-        "password": "",
+        "password": "publii uuid-1746735296431-316757618",
         "askforpassword": false,
         "rejectUnauthorized": true,
         "path": "/srv/public-website/html/",
@@ -193,8 +193,8 @@
             "customProvider": false,
             "provider": "aws",
             "endpoint": "",
-            "id": "",
-            "key": "",
+            "id": "publii-s3-id uuid-1746735296431-316757618",
+            "key": "publii-s3-key uuid-1746735296431-316757618",
             "bucket": "",
             "region": "",
             "customRegion": "",
@@ -207,7 +207,7 @@
             "url": "",
             "branch": "",
             "user": "",
-            "password": "",
+            "password": "publii-git-password uuid-1746735296431-316757618",
             "commitAuthor": "",
             "commitEmail": "",
             "commitMessage": "Publii: update content"
@@ -217,7 +217,7 @@
             "user": "",
             "repo": "",
             "branch": "",
-            "token": "",
+            "token": "publii-gh-token uuid-1746735296431-316757618",
             "parallelOperations": 1,
             "apiRateLimiting": 1
         },
@@ -226,11 +226,11 @@
             "rejectUnauthorized": true,
             "repo": "",
             "branch": "",
-            "token": ""
+            "token": "publii-gl-token uuid-1746735296431-316757618"
         },
         "netlify": {
-            "id": "",
-            "token": ""
+            "id": "publii-netlify-id uuid-1746735296431-316757618",
+            "token": "publii-netlify-token uuid-1746735296431-316757618"
         },
         "google": {
             "key": "",
@@ -243,5 +243,5 @@
         }
     },
     "theme": "saw theme",
-    "syncDate": 1774569413001
+    "syncDate": 1774574207773
 }
