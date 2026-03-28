@@ -147,7 +147,7 @@
     {
         "path": "/de/faq-de/index.html",
         "type": "file",
-        "md5": "f815c74046820126b2fa6be08ac8394e"
+        "md5": "4ed10be83d3b77831870db3085f1d384"
     },
     {
         "path": "de/impressum-de",
@@ -202,7 +202,7 @@
     {
         "path": "/de/wohnheim-de/index.html",
         "type": "file",
-        "md5": "0f794e27b4d921bcb7939c0f7c4bdd33"
+        "md5": "5c1f162e2cd81ea1980fc578409efa68"
     },
     {
         "path": "en",
@@ -267,7 +267,7 @@
     {
         "path": "/en/faq-en/index.html",
         "type": "file",
-        "md5": "aa02db04cebbe5187a37879b6e402897"
+        "md5": "b2e45355ca753f70e80323bb90c986f1"
     },
     {
         "path": "en/home-en",
@@ -332,7 +332,7 @@
     {
         "path": "/en/wohnheim-en/index.html",
         "type": "file",
-        "md5": "2ebcd9ff5ab60973144156c50f5bf577"
+        "md5": "058a7723ca630f71203678c4f743e305"
     },
     {
         "path": "feed.json",
